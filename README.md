@@ -1,8 +1,16 @@
-# React + Vite
+# Assembly: Endgame 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive word-guessing game where you must save the programming world by guessing the word before running out of attempts. Lose, and Assembly takes over!This project was built as part of a learning journey on Scrimba, with the added feature of tracking score.
 
-Currently, two official plugins are available:
+## Demo
+You can check out the live version of the project here: [https://05851130.end-game-b9u.pages.dev/](#) 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+## Inspiration
+This project was created as part of my learning journey on Scrimba. 
+
+
+
+## Acknowledgments
+- **Scrimba** for their amazing tutorials.
+- The **React community** for helpful resources.
